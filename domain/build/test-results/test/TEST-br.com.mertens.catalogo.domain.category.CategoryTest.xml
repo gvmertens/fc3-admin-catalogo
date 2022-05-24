@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.mertens.catalogo.domain.category.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-03T11:43:18" hostname="TF-GUILHERME" time="0.045">
+  <properties/>
+  <testcase name="givenAnValidCategory_whenCallUpdateAndInactive_thenReturnCategoryUpdate()" classname="br.com.mertens.catalogo.domain.category.CategoryTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
